@@ -1,6 +1,6 @@
 {
-  "catppuccin": { "branch": "main", "commit": "ce4a8e0d5267e67056f9f4dcf6cb1d0933c8ca00" },
-  "conform.nvim": { "branch": "master", "commit": "4993e07fac6679d0a5005aa7499e0bad2bd39f19" },
+  "catppuccin": { "branch": "main", "commit": "ce8d176faa4643e026e597ae3c31db59b63cef09" },
+  "conform.nvim": { "branch": "master", "commit": "9b8fa5e0b78168f68bee9bf886dc20f287c61e02" },
   "lazy.nvim": { "branch": "main", "commit": "85c7ff3711b730b4030d03144f6db6375044ae82" },
   "mini-git": { "branch": "main", "commit": "a0ddc6302f654523053c28109e8b6dbbf05c08f8" },
   "mini.completion": { "branch": "main", "commit": "ea78d31e8164468f0b3a909f863806f2c4cb84c4" },
@@ -10,9 +10,9 @@
   "mini.pick": { "branch": "main", "commit": "fa1e449e1080bf7aa9b2890ee186d23b1b4e1287" },
   "mini.snippets": { "branch": "main", "commit": "d005684e620e76eb2a5fbbbd211a1eba7212b4aa" },
   "mini.statusline": { "branch": "main", "commit": "e331175f10d9f400b42523b3890841aba202ce16" },
-  "neoconf.nvim": { "branch": "main", "commit": "3fdd84804c397059d4698fd8933f443058c4858e" },
-  "nvim-lint": { "branch": "master", "commit": "d1118791070d090777398792a73032a0ca5c79ff" },
+  "neoconf.nvim": { "branch": "main", "commit": "795ff56ad739f1e484909b908f909130cc2dbebe" },
+  "nvim-lint": { "branch": "master", "commit": "ae64d6466ed92b68353122d920e314ff2c8dd0a8" },
   "nvim-treesitter": { "branch": "master", "commit": "42fc28ba918343ebfd5565147a42a26580579482" },
-  "oil.nvim": { "branch": "master", "commit": "01cb3a8ad7d5e8707041edc775af83dbf33838f4" },
+  "oil.nvim": { "branch": "master", "commit": "cbcb3f997f6f261c577b943ec94e4ef55108dd95" },
   "which-key.nvim": { "branch": "main", "commit": "3aab2147e74890957785941f0c1ad87d0a44c15a" }
 }
